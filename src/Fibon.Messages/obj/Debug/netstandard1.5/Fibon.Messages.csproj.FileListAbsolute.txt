@@ -1,0 +1,7 @@
+C:\MEETUP\Fibon\src\Fibon.Messages\bin\Debug\netstandard1.5\Fibon.Messages.deps.json
+C:\MEETUP\Fibon\src\Fibon.Messages\bin\Debug\netstandard1.5\Fibon.Messages.dll
+C:\MEETUP\Fibon\src\Fibon.Messages\bin\Debug\netstandard1.5\Fibon.Messages.pdb
+C:\MEETUP\Fibon\src\Fibon.Messages\obj\Debug\netstandard1.5\Fibon.Messages.csprojResolveAssemblyReference.cache
+C:\MEETUP\Fibon\src\Fibon.Messages\obj\Debug\netstandard1.5\Fibon.Messages.AssemblyInfo.cs
+C:\MEETUP\Fibon\src\Fibon.Messages\obj\Debug\netstandard1.5\Fibon.Messages.dll
+C:\MEETUP\Fibon\src\Fibon.Messages\obj\Debug\netstandard1.5\Fibon.Messages.pdb

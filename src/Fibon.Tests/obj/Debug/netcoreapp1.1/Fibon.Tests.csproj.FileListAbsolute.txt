@@ -1,0 +1,16 @@
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Tests.deps.json
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Tests.runtimeconfig.json
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Tests.runtimeconfig.dev.json
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Tests.dll
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Tests.pdb
+C:\MEETUP\Fibon\src\Fibon.Tests\obj\Debug\netcoreapp1.1\Fibon.Tests.csprojResolveAssemblyReference.cache
+C:\MEETUP\Fibon\src\Fibon.Tests\obj\Debug\netcoreapp1.1\Fibon.Tests.AssemblyInfo.cs
+C:\MEETUP\Fibon\src\Fibon.Tests\obj\Debug\netcoreapp1.1\Fibon.Tests.dll
+C:\MEETUP\Fibon\src\Fibon.Tests\obj\Debug\netcoreapp1.1\Fibon.Tests.pdb
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Messages.dll
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Service.dll
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Service.pdb
+C:\MEETUP\Fibon\src\Fibon.Tests\bin\Debug\netcoreapp1.1\Fibon.Messages.pdb

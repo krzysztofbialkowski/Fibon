@@ -1,0 +1,11 @@
+C:\MEETUP\Fibon\src\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.dll
+C:\MEETUP\Fibon\src\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.deps.json
+C:\MEETUP\Fibon\src\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.runtimeconfig.json
+C:\MEETUP\Fibon\src\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.runtimeconfig.dev.json
+C:\MEETUP\Fibon\src\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Messages.dll
+C:\MEETUP\Fibon\src\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Messages.pdb
+C:\MEETUP\Fibon\src\Fibon.Service\obj\Debug\netcoreapp1.1\Fibon.Service.csprojResolveAssemblyReference.cache
+C:\MEETUP\Fibon\src\Fibon.Service\obj\Debug\netcoreapp1.1\Fibon.Service.AssemblyInfo.cs
+C:\MEETUP\Fibon\src\Fibon.Service\obj\Debug\netcoreapp1.1\Fibon.Service.dll
+C:\MEETUP\Fibon\src\Fibon.Service\obj\Debug\netcoreapp1.1\Fibon.Service.pdb
+C:\MEETUP\Fibon\src\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.pdb
